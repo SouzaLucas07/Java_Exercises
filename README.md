@@ -1,2 +1,2 @@
 # Java_Exercises
-Exercicios de Java - Para desenvolvimento pessoal
+Exercícios de Java - Para desenvolvimento pessoal
